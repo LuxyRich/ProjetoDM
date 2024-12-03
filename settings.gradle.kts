@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dados"
+rootProject.name = "asdad"
 include(":app")
  
